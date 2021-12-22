@@ -1,0 +1,7 @@
+{
+  "name": "vmu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
